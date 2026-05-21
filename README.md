@@ -1,6 +1,9 @@
 # PacManFrenzy
 A complete PacMan clone built using the Unity engine and C# scripting mechanics.
 
+## Platforms
+- Windows
+
 ## How to Run the Project From an Executable
 
 1. Click the green ```Code``` button at the top
